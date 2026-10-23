@@ -1,0 +1,83 @@
+{
+  "app_name": "AI Smart Keyboard",
+  "package_name": "com.aistudio.smartkeyboard.aixp",
+  "version_name": "1.0",
+  "version_code": 1,
+  "target_android_version": "Android 15 (API 35/36)",
+  "build_type": "MOD_UNLOCKED",
+  "unlocked_features": {
+    "all_themes_unlocked": true,
+    "unlimited_ai_translation": true,
+    "gemini_3_5_flash_enabled": true,
+    "offline_translator_fallback": true,
+    "dual_mode_bilingual_output": true,
+    "voice_typing_recognition": true,
+    "clipboard_manager_unlimited": true,
+    "personal_dictionary_shortcuts": true,
+    "one_handed_and_floating_modes": true,
+    "zero_ads": true,
+    "no_paywalls": true
+  },
+  "default_settings": {
+    "default_language_mode": "DUAL",
+    "supported_language_modes": ["ENGLISH", "BANGLA", "DUAL"],
+    "active_theme": "MATERIAL_YOU",
+    "available_themes": [
+      {
+        "id": "MATERIAL_YOU",
+        "name": "Material You (Dynamic M3)",
+        "bg_color": "#F3F4F6",
+        "key_color": "#FFFFFF",
+        "primary_color": "#1976D2"
+      },
+      {
+        "id": "MIDNIGHT_OLED",
+        "name": "Midnight OLED Dark",
+        "bg_color": "#000000",
+        "key_color": "#1A1A1A",
+        "primary_color": "#BB86FC"
+      },
+      {
+        "id": "CYBER_NEON",
+        "name": "Cyber Neon",
+        "bg_color": "#0B0E14",
+        "key_color": "#182234",
+        "primary_color": "#00E5FF"
+      },
+      {
+        "id": "ROSE_GOLD",
+        "name": "Rose Gold",
+        "bg_color": "#FFF5F5",
+        "key_color": "#FFFFFF",
+        "primary_color": "#E91E63"
+      },
+      {
+        "id": "EMERALD_SLATE",
+        "name": "Emerald Slate",
+        "bg_color": "#0F1F17",
+        "key_color": "#1B3026",
+        "primary_color": "#00C853"
+      },
+      {
+        "id": "SOFT_LAVENDER",
+        "name": "Soft Lavender",
+        "bg_color": "#F7F5FB",
+        "key_color": "#FFFFFF",
+        "primary_color": "#7E57C2"
+      }
+    ],
+    "number_row_enabled": true,
+    "haptic_feedback_enabled": true,
+    "sound_feedback_enabled": true,
+    "auto_correction_enabled": true,
+    "predictive_suggestions_enabled": true
+  },
+  "preset_dictionary_shortcuts": [
+    { "shortcut": "omw", "expansion": "On my way!" },
+    { "shortcut": "ily", "expansion": "I love you ❤️" },
+    { "shortcut": "ty", "expansion": "Thank you so much!" },
+    { "shortcut": "gm", "expansion": "Good morning ☀️" },
+    { "shortcut": "gn", "expansion": "Good night 🌙" },
+    { "shortcut": "valobashi", "expansion": "আমি তোমাকে ভালোবাসি" }
+  ]
+}
