@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Keyboard",
+  "description": "Professional Android Keyboard (IME) with English, Bangla & Dual Mode AI translation, Voice typing, Smart Suggestions and themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
